@@ -11,7 +11,7 @@
 </p>
 
 ### 🚀 About Me
-I am a **Computer Science & Engineering** student at **CUET** ('27). I am a passionate **Full-Stack Flutter Developer** and a **Competitive Programmer** with a strong focus on building scalable, intelligent mobile solutions.
+I am a **Computer Science & Engineering** student at **CUET** . I am a passionate **Full-Stack Flutter Developer** and a **Competitive Programmer** with a strong focus on building scalable, intelligent mobile solutions.
 
 ---
 
