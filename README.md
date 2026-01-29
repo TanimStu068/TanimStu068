@@ -36,23 +36,23 @@ I am actively exploring the intersection of **AI and Mobile Environments**, spec
 
 #### 🛡️ [Cyber Sense Plus](https://github.com/TanimStu068/cyber-sense-plus)
 Personal cybersecurity app featuring encrypted vaults and threat detection.
-* **Stack:** Flutter, Firebase, Dart, Encryption Libraries.
+* **Stack:** Flutter, Firebase, Dart, Encryption Libraries, Hive.
 
 #### 🚌 [CUETBus](https://github.com/TanimStu068/cuetbus_flutter)
 Full-stack bus booking system for CUET students with seat selection and digital passes.
-* **Stack:** Flutter, Node.js, SQLite, REST API.
+* **Stack:** Flutter, Node.js, SQLite, REST API, Hive.
 
 #### 📚 [CUET CSE Course Materials](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app)
 Academic resource hub featuring AI-driven search and recommendations.
-* **Stack:** Flutter, Firebase, AI Recommendation Engine.
+* **Stack:** Flutter, Firebase, AI Recommendation Engine, Hive.
 
 #### 💰 [TrackSpend (Personal Finance App)](https://github.com/TanimStu068/track_spend_flutter_app)
 Expense tracker with offline support, cloud sync, and analytics dashboards.
-* **Stack:** Flutter, Firebase, Dart, Cloud Firestore.
+* **Stack:** Flutter, Firebase, Dart, Hive.
 
 #### 💬 [Chat Hub](https://github.com/TanimStu068/chat_hub_flutter)
 Real-time messaging application supporting voice/video calls and cloud sync.
-* **Stack:** Flutter, Firebase, Supabase.
+* **Stack:** Flutter, Firebase, Supabase, Hive.
 
 ---
 
