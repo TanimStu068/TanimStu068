@@ -46,6 +46,10 @@ Full-stack bus booking system for CUET students with seat selection and digital 
 Academic resource hub featuring AI-driven search and recommendations.
 * **Stack:** Flutter, Firebase, AI Recommendation Engine.
 
+#### 💰 [TrackSpend (Personal Finance App)](https://github.com/TanimStu068/track_spend_flutter_app)
+Expense tracker with offline support, cloud sync, and analytics dashboards.
+* **Stack:** Flutter, Firebase, Dart, Cloud Firestore.
+
 #### 💬 [Chat Hub](https://github.com/TanimStu068/chat_hub_flutter)
 Real-time messaging application supporting voice/video calls and cloud sync.
 * **Stack:** Flutter, Firebase, Supabase.
