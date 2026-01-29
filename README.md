@@ -1,76 +1,89 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Khandaker%20Tanim%20Mahmud%20Hoque&fontSize=40&animation=fadeIn" />
+</p>
 
-# Hi there, I'm Khandaker Tanim Mahmud Hoque 👋
+<p align="center">
+  <a href="https://linkedin.com/in/tanim-mahmud68"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/khandaker.tanim.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:tmahmud547@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-I am a **Computer Science and Engineering** student at Chittagong University of Engineering and Technology (CUET). I am a passionate **Full-Stack Flutter Developer** and a **Competitive Programmer** with a growing interest in **Machine Learning, Computer Vision, and Cybersecurity.**
-
-### 🚀 Quick Summary
-- 🎓 **Education:** B.Sc. in CSE at CUET (2023 - Present)
-- 📱 **Expertise:** Full-stack Mobile Application Development (Flutter + Firebase/Supabase)
-- 🔬 **Interests:** AI-Integrated Systems, IoT, and Secure Application Architecture
-- 🏆 **Competitive Programming:** 400+ problems solved on Codeforces, 60+ on GFG
-
----
-
-### 🛠️ Technical Toolbox
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | C, C++, Dart, Java, Python, JavaScript (Node.js), SQL |
-| **Frameworks** | Flutter (Expertise), Express.js |
-| **Libraries** | NumPy, Pandas, Scikit-learn, Encryption Libraries |
-| **Backend & DB** | Firebase, Supabase, Firestore, MySQL, SQLite, MongoDB |
-| **Tools** | Git/GitHub, Linux (Bash), LaTeX, Postman, Android Studio |
+### 🚀 About Me
+I am a **Computer Science & Engineering** student at **CUET** ('27). I am a passionate **Full-Stack Flutter Developer** and a **Competitive Programmer** with a strong focus on building scalable, intelligent mobile solutions.
 
 ---
 
 ### 🔬 Research & Learning Interests
-I am actively exploring the intersection of **AI and Mobile Environments**, specifically:
-* **Deep Learning:** Neural network optimization for real-world problems.
-* **Computer Vision:** Object detection and segmentation for mobile/edge devices.
-* **Secure Systems:** Privacy-preserving AI and encrypted data communication.
-* **Smart Systems:** IoT-based automation and real-time decision-making.
+I am actively exploring the intersection of **AI and Mobile Environments**:
+* **Deep Learning & CV:** Object detection and neural network optimization for edge devices.
+* **Intelligent Systems:** AI-integrated apps using reinforcement learning and autonomous pipelines.
+* **Secure Systems:** Privacy-preserving AI, encryption, and vulnerability analysis in IoT/Mobile.
+* **Smart Automation:** Combining IoT sensor data with real-time mobile decision-making.
+
+---
+
+### 💻 Technical Toolbox
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,js,c,mysql" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,nodejs,express" /> |
+| **Tools & DB** | <img src="https://skillicons.dev/icons?i=firebase,mongodb,git,linux,vscode,androidstudio" /> |
+
+---
+
+### 🏆 Competitive Programming
+<p align="left">
+  <a href="https://codeforces.com/profile/Tanim456"><img src="https://img.shields.io/badge/Codeforces-835-1f8acb?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/dark_321"><img src="https://img.shields.io/badge/LeetCode-dark__321-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/tmahmu268h"><img src="https://img.shields.io/badge/GeeksForGeeks-Solved_60+-298D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+- **Codeforces:** 400+ Problems Solved (Max Rating: 835)
+- **LeetCode:** 50+ Problems Solved
+- **GeeksForGeeks:** 170+ Coding Score
 
 ---
 
 ### 📁 Featured Projects
 
-#### 🛡️ [Cyber Sense Plus](https://github.com/TanimStu068/cyber-sense-plus)
-Personal cybersecurity app featuring encrypted vaults and threat detection.
-* **Stack:** Flutter, Firebase, Dart, Encryption Libraries, Hive.
-
-#### 🚌 [CUETBus](https://github.com/TanimStu068/cuetbus_flutter)
-Full-stack bus booking system for CUET students with seat selection and digital passes.
-* **Stack:** Flutter, Node.js, SQLite, REST API, Hive.
-
-#### 📚 [CUET CSE Course Materials](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app)
-Academic resource hub featuring AI-driven search and recommendations.
-* **Stack:** Flutter, Firebase, AI Recommendation Engine, Hive.
-
-#### 💰 [TrackSpend (Personal Finance App)](https://github.com/TanimStu068/track_spend_flutter_app)
-Expense tracker with offline support, cloud sync, and analytics dashboards.
-* **Stack:** Flutter, Firebase, Dart, Hive.
-
-#### 💬 [Chat Hub](https://github.com/TanimStu068/chat_hub_flutter)
-Real-time messaging application supporting voice/video calls and cloud sync.
-* **Stack:** Flutter, Firebase, Supabase, Hive.
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **🛡️ Cyber Sense Plus** | Cybersecurity app with encrypted vaults & threat detection. | [Repo](https://github.com/TanimStu068/cyber-sense-plus) |
+| **💰 TrackSpend** | Personal finance manager with offline sync & analytics. | [Repo](https://github.com/TanimStu068/track_spend_flutter_app) |
+| **🚌 CUETBus** | Full-stack booking system with digital passes. | [Repo](https://github.com/TanimStu068/cuetbus_flutter) |
+| **📚 CUET Materials** | AI-driven academic resource hub for CSE students. | [Repo](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
+| **💬 Chat Hub** | Real-time messaging with video calls & Supabase. | [Repo](https://github.com/TanimStu068/chat_hub_flutter) |
 
 ---
 
-### 📊 Coding Profiles
-- 🟦 **Codeforces:** [Tanim456](https://codeforces.com/profile/Tanim456) (Max Rating: 835 | 400+ Solved)
-- 🟧 **LeetCode:** [dark_321](https://leetcode.com/u/dark_321)
-- 🟩 **GeeksForGeeks:** [tmahmu268h](https://www.geeksforgeeks.org/profile/tmahmu268h)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanimStu068&show_icons=true&theme=radical&hide_border=true" alt="Tanim's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanimStu068&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Facts & Hobbies
+- ✍️ I write **Bengali literature** and poetry in my free time.
+- 🚁 Passionate about **Drones** and building **Smart Home Automation**.
+- 🏋️‍♂️ You'll often find me at the gym or exploring new tech hubs.
+- 🐧 I enjoy working in the **Linux** environment.
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanim-mahmud68/)
-- 📧 [Email](mailto:tmahmud547@gmail.com)
-- 📍 Chittagong, Bangladesh
+- 💼 **LinkedIn:** [tanim-mahmud68](https://www.linkedin.com/in/tanim-mahmud68/)
+- 📧 **Email:** [tmahmud547@gmail.com](mailto:tmahmud547@gmail.com)
+- 📍 **Location:** Chittagong, Bangladesh
 
 ---
 
-### ⚡ Fun Facts
-- I enjoy writing **Bengali literature** and poems.
-- I'm a fan of building **drones and smart home automation**.
-- You can usually find me at the gym or exploring new tech hubs.
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i><br>
+  <b>— Alan Kay</b>
+</p>
+
+---
