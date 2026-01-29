@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Khandaker%20Tanim%20Mahmud%20Hoque&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Khandaker%20Tanim%20Mahmud%20Hoque&fontSize=40&animation=fadeIn&desc=A%20passionate%20programmer,%20developer%20%26%20tech%20explorer&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
