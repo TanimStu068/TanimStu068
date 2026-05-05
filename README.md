@@ -14,8 +14,6 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
 
 I'm a **Computer Science & Engineering** student at **CUET** (2023–Present) and a **Mobile & AI Engineer** passionate about building secure, intelligent, and user-centric applications. I specialize in **Android (Kotlin/Jetpack Compose)** and **Cross-Platform (Flutter)** development, with a growing focus on integrating AI into mobile experiences.
@@ -26,43 +24,31 @@ I'm a **Computer Science & Engineering** student at **CUET** (2023–Present) an
 - 🎯 **My goal:** To build privacy-first Android apps and cross-platform Flutter applications with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
 - 📫 **Reach me:** [tmahmud547@gmail.com](mailto:tmahmud547@gmail.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🛠️ Technical Toolbox
 
 ### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp,javascript,sqlite" />
-</div>
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp,javascript,sqlite" />
 
 ### Android/Native
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" />
-  <br>
-  <span>Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager</span>
-</div>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" />
+
+**Frameworks & APIs:** Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager
 
 ### Cross-Platform & Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,postgresql,supabase" />
-  <br>
-  <span>Provider | FastAPI | Socket.IO</span>
-</div>
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,postgresql,supabase" />
+
+**Frameworks & Tools:** Provider | FastAPI | Socket.IO
 
 ### Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma" />
-</div>
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma" />
 
 ---
-
-<div align="center">
 
 ## 🧠 Competitive Programming & Problem Solving
 
@@ -74,11 +60,7 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 | **GeeksforGeeks** | 170+ Coding Score |
 | **Codeforces** | 400+ Problems Solved (Max Rating: 835) |
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📁 Featured Projects
 
@@ -91,11 +73,7 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 | **🚌 CUETBus** | Transit System Booking Platform | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
 | **💰 Track Spend** | Personal Finance Manager | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🎓 Certifications & Achievements
 
@@ -109,16 +87,13 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 | **Introduction to Artificial Intelligence** | Simplilearn | 2026 |
 | **Python (Basic)** | HackerRank | 2023 |
 
+**Key Achievements:**
 - 🏅 Board Scholarship (5.00/5.00) – HSC & SSC
 - 💡 500+ DSA Problems Solved
 - 📱 10+ Production Apps Built
 - 🎨 40+ Screens (UrbanOS)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📊 GitHub Analytics
 
@@ -133,11 +108,7 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanimStu068&theme=radical&hide_border=true&background=0A0A0A&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" width="60%" />
 </div>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📫 Let's Connect
 
@@ -150,6 +121,8 @@ I'm always open to discussing new projects, collaborations, or opportunities in 
 </div>
 
 ---
+
+<div align="center">
 
 ### 🎯 *"Building privacy-first solutions with clean architecture and real-world impact."*
 
