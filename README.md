@@ -82,10 +82,10 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 | **CS101: Introduction to Programming I** | Saylor University | 2026 |
 | **Machine Learning with Python** | IBM | 2026 |
 | **AI for All: From Basics to GenAI Practice** | NVIDIA | 2026 |
-| **Scientific Computing with Python** | freeCodeCamp | 2023 |
+| **Scientific Computing with Python** | freeCodeCamp | 2026 |
 | **Google Play Academy Store Listing** | Google | 2026 |
 | **Introduction to Artificial Intelligence** | Simplilearn | 2026 |
-| **Python (Basic)** | HackerRank | 2023 |
+| **Python (Basic)** | HackerRank | 2026 |
 
 **Key Achievements:**
 - 🏅 Board Scholarship (5.00/5.00) – HSC & SSC
