@@ -1,84 +1,156 @@
+<div align="center">
+  
+# 👨‍💻 Khandaker Tanim Mahmud Hoque
+
+### *Mobile & AI Engineer · Building Privacy-First Experiences*
+
+[![GitHub Followers](https://img.shields.io/github/followers/TanimStu068?style=for-the-badge&logo=github&label=Followers&color=0a0a0a)](https://github.com/TanimStu068)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanim-mahmud68)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dark_321)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmahmud547@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://tanimmahmud.vercel.app)
+
+</div>
+
+---
 
 <div align="center">
 
-# 💫 Khandaker Tanim Mahmud Hoque
-### 👨‍💻 A passionate programmer, developer & tech explorer
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/tanim-mahmud68"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tanim.mahmud.10482"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:tmahmud547@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+I'm a **Computer Science & Engineering** student at **CUET** (2023–Present) and a **Mobile & AI Engineer** passionate about building secure, intelligent, and user-centric applications. I specialize in **Android (Kotlin/Jetpack Compose)** and **Cross-Platform (Flutter)** development, with a growing focus on integrating AI into mobile experiences.
 
-### 🚀 About Me
-I am a **Computer Science & Engineering** student at **CUET** . I am a passionate **Full-Stack Flutter Developer** and a **Competitive Programmer** with a strong focus on building scalable, intelligent mobile solutions.
+- 🔭 **Currently working on:** [OmniGuard](https://github.com/TanimStu068/omniguard) – A privacy & system health dashboard for Android.
+- 🌱 **Currently learning:** Deep Learning, Computer Vision, and Advanced Android Architecture (Hilt, Coroutines, WorkManager).
+- 👯 **Looking to collaborate on:** Open-source Flutter/Kotlin projects, AI-powered mobile tools, and privacy-focused security apps.
+- 🎯 **My goal:** To build privacy-first Android apps and cross-platform Flutter applications with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
+- 📫 **Reach me:** [tmahmud547@gmail.com](mailto:tmahmud547@gmail.com)
 
----
-
-### 🔬 Research & Learning Interests
-I am actively exploring the intersection of **AI and Mobile Environments**:
-* **Deep Learning & CV:** Object detection and neural network optimization for edge devices.
-* **Intelligent Systems:** AI-integrated apps using reinforcement learning and autonomous pipelines.
-* **Secure Systems:** Privacy-preserving AI, encryption, and vulnerability analysis in IoT/Mobile.
-* **Smart Automation:** Combining IoT sensor data with real-time mobile decision-making.
+</div>
 
 ---
 
-### 💻 Technical Toolbox
+<div align="center">
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,dart,python,java,js,c,mysql" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,nodejs,express" /> |
-| **Tools & DB** | <img src="https://skillicons.dev/icons?i=firebase,mongodb,git,linux,vscode,androidstudio" /> |
+## 🛠️ Technical Toolbox
 
----
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp,javascript,sqlite" />
+</div>
 
-### 🏆 Competitive Programming
-<p align="left">
-  <a href="https://codeforces.com/profile/Tanim456"><img src="https://img.shields.io/badge/Codeforces-835-1f8acb?style=flat&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/dark_321"><img src="https://img.shields.io/badge/LeetCode-dark__321-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/tmahmu268h"><img src="https://img.shields.io/badge/GeeksForGeeks-Solved_60+-298D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
-- **Codeforces:** 400+ Problems Solved (Max Rating: 835)
-- **LeetCode:** 50+ Problems Solved
-- **GeeksForGeeks:** 170+ Coding Score
-
----
-
-### 📁 Featured Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **🛡️ Cyber Sense Plus** | Cybersecurity app with encrypted vaults & threat detection. | [Repo](https://github.com/TanimStu068/cyber-sense-plus) |
-| **💰 TrackSpend** | Personal finance manager with offline sync & analytics. | [Repo](https://github.com/TanimStu068/track_spend_flutter_app) |
-| **🚌 CUETBus** | Full-stack booking system with digital passes. | [Repo](https://github.com/TanimStu068/cuetbus_flutter) |
-| **📚 CUET Materials** | AI-driven academic resource hub for CSE students. | [Repo](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
-| **💬 Chat Hub** | Real-time messaging with video calls & Supabase. | [Repo](https://github.com/TanimStu068/chat_hub_flutter) |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanimStu068&show_icons=true&theme=radical&hide_border=true" alt="Tanim's Stats" />
+### Android/Native
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanimStu068&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+  <span>Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager</span>
+</div>
+
+### Cross-Platform & Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,postgresql,supabase" />
+  <br>
+  <span>Provider | FastAPI | Socket.IO</span>
+</div>
+
+### Tools & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma" />
+</div>
+
+</div>
 
 ---
 
-### ⚡ Fun Facts & Hobbies
-- ✍️ I write **Bengali literature** and poetry in my free time.
-- 🚁 Passionate about **Drones** and building **Smart Home Automation**.
-- 🏋️‍♂️ You'll often find me at the gym or exploring new tech hubs.
-- 🐧 I enjoy working in the **Linux** environment.
+<div align="center">
+
+## 🧠 Competitive Programming & Problem Solving
+
+I actively solve problems on various platforms to sharpen my DSA skills and algorithmic thinking.
+
+| Platform | Stats |
+| :--- | :--- |
+| **LeetCode** | 100+ Problems Solved |
+| **GeeksforGeeks** | 170+ Coding Score |
+| **Codeforces** | 400+ Problems Solved (Max Rating: 835) |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br>
-  <b>— Alan Kay</b>
-</p>
+<div align="center">
+
+## 📁 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🛡️ OmniGuard** | Privacy & System Health Dashboard | Kotlin, Jetpack Compose, MVVM, Hilt, Room, Coroutines, WorkManager | [GitHub](https://github.com/TanimStu068/omniguard) · [Store](https://m.onestore.net/en-sg/apps/appsDetail?prodId=0001005494&pause=N) |
+| **🏙️ UrbanOS** | Smart City Digital Twin Simulator | Flutter, Provider, IoT Architecture, Virtual Automation Engine | [GitHub](https://github.com/TanimStu068/urban-os) |
+| **🔐 Cyber Sense Plus** | Security Vault with AES-256 Encryption | Flutter, Firebase, AES-256 Encryption, Hive | [GitHub](https://github.com/TanimStu068/cyber-sense-plus) |
+| **📚 CUET CSE Materials** | Smart Learning Platform | Flutter, Firebase, Firestore, Supabase, Hive | [GitHub](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
+| **🚌 CUETBus** | Transit System Booking Platform | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
+| **💰 Track Spend** | Personal Finance Manager | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🎓 Certifications & Achievements
+
+| Certification | Issuer | Year |
+| :--- | :--- | :--- |
+| **CS101: Introduction to Programming I** | Saylor University | 2026 |
+| **Machine Learning with Python** | IBM | 2026 |
+| **AI for All: From Basics to GenAI Practice** | NVIDIA | 2026 |
+| **Scientific Computing with Python** | freeCodeCamp | 2023 |
+| **Google Play Academy Store Listing** | Google | 2026 |
+| **Introduction to Artificial Intelligence** | Simplilearn | 2026 |
+| **Python (Basic)** | HackerRank | 2023 |
+
+- 🏅 Board Scholarship (5.00/5.00) – HSC & SSC
+- 💡 500+ DSA Problems Solved
+- 📱 10+ Production Apps Built
+- 🎨 40+ Screens (UrbanOS)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanimStu068&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" alt="Tanim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanimStu068&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanimStu068&theme=radical&hide_border=true&background=0A0A0A&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" width="60%" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, collaborations, or opportunities in mobile development and AI.
+
+<div align="center">
+  <a href="mailto:tmahmud547@gmail.com"><img src="https://img.shields.io/badge/Email-tmahmud547%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tanim-mahmud68"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/TanimStu068"><img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+### 🎯 *"Building privacy-first solutions with clean architecture and real-world impact."*
+
+</div>
