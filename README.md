@@ -16,13 +16,14 @@
 
 ## About Me
 
-I'm a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)** and a **Mobile & AI Engineer** focused on building secure, intelligent, and user-centric applications. I work across **Android (Kotlin)** and **Cross-Platform (Flutter)** development, with backend experience in **FastAPI** and **PostgreSQL**, and a growing focus on bringing AI into real products.
+I'm a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)**, aspiring to become a **Backend Engineer specializing in AI**. I enjoy building scalable, secure, and reliable systems, and I'm focused on **backend engineering, distributed systems, and large-scale AI**. I build backends with **FastAPI** and **PostgreSQL**, work with **LLMs and machine learning**, and have also built **cross-platform apps with Flutter** along with an Android app.
 
-- 🔭 **Currently working on:** [OmniGuard](https://github.com/TanimStu068/omniguard), a privacy and system health dashboard for Android.
-- 💼 **Currently:** AI Research & Development Intern at **TechOptions**, working on **BanglaLLM**.
-- 🌱 **Currently learning:** Deep Learning, Computer Vision, and Advanced Android Architecture (Hilt, Coroutines, WorkManager).
-- 👯 **Looking to collaborate on:** Open-source Flutter/Kotlin projects, AI-powered mobile tools, and privacy-focused security apps.
-- 🎯 **Goal:** Build privacy-first Android apps and cross-platform Flutter applications with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
+- 🔭 **Currently working on:**
+  - 🔬 **Undergraduate Thesis:** Deepfake detection and C2PA cross-verification for Bangla visual media. This includes building a Bangla dataset, fine-tuning a base model, and evaluating its accuracy and performance.
+  - 🤖 **BanglaLLM @ TechOptions (AI R&D Intern):** A full-stack, full-featured Bangla LLM platform for the Government of Bangladesh. I build new features, work in feature branches and merge to main, test, debug, fix issues, and give the team daily progress updates.
+- 🌱 **Currently learning:** Backend Engineering, System Design, DevOps, Machine Learning, Deep Learning, and Computer Vision.
+- 👯 **Looking to collaborate on:** Open-source backend and AI projects, AI-powered applications, Flutter/Kotlin mobile apps, and privacy-focused security tools.
+- 🎯 **Goal:** To become a **Backend Engineer specializing in AI**, building scalable, secure, production-ready systems with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
 - 📫 **Reach me:** [tmahmud547@gmail.com](mailto:tmahmud547@gmail.com)
 
 ---
@@ -38,38 +39,14 @@ I'm a final-year **Computer Science & Engineering** student at **Chittagong Univ
 
 ## Technical Toolbox
 
-**Languages**<br>
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-06B6D4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-06B6D4?style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-06B6D4?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-06B6D4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge)
+| | |
+| :--- | :--- |
+| **💻 Languages** | ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB) ![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=0175C2) ![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=0F80CC) |
+| **⚙️ Backend & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0A0A?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00) ![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28) |
+| **🧠 AI** | **Generative AI · LLMs · Machine Learning · Deep Learning**<br>![Gemini API](https://img.shields.io/badge/Gemini%20API-0A0A0A?style=for-the-badge&logo=googlegemini&logoColor=8E75B2) |
+| **🛠️ Tools** | ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED) ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Android Studio](https://img.shields.io/badge/Android%20Studio-0A0A0A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84) ![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
+| **📱 Mobile** | ![Flutter](https://img.shields.io/badge/Flutter%20(Provider)-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B) ![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84) |
 
-**Mobile**<br>
-![Flutter](https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-06B6D4?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-06B6D4?style=for-the-badge)
-
-**Backend & Databases**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06B6D4?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-06B6D4?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-06B6D4?style=for-the-badge)
-
-**AI**<br>
-![Generative AI](https://img.shields.io/badge/Generative%20AI-06B6D4?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-06B6D4?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-06B6D4?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge)
-
-**Tools**<br>
-![Git](https://img.shields.io/badge/Git-06B6D4?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-06B6D4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-06B6D4?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-06B6D4?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-06B6D4?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-06B6D4?style=for-the-badge)
 ---
 
 ## Featured Projects
@@ -105,8 +82,7 @@ I regularly solve problems to sharpen my data structures, algorithms, and proble
 - 🚀 **IEEE CS × Poridhi Hackathon (1-day)**: Built [CinemaSeat](https://github.com/TanimStu068/CinemaSeat), a real-time, high-concurrency cinema ticketing system, as a team to solve a real-world problem. Deployed on the **Poridhi AWS Lab** with automated CI/CD via GitHub Actions.
 - 🏅 **Board Scholarship (5.00/5.00)**, HSC & SSC
 - 💡 **500+ DSA problems** solved
-- 📱 **10+ apps** built with Flutter and Android
-- 🎨 **40+ screens** designed and built in UrbanOS
+- 📱 **10+ apps** built with Flutter 
 
 ---
 
