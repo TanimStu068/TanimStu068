@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Backend Engineer · AI Specialization
 
-**Computer Science & Engineering @ CUET '26**
+**Computer Science & Engineering @ CUET **
 
 <p align="left">
   <a href="https://linkedin.com/in/tanim-mahmud68">
@@ -71,15 +71,22 @@ I enjoy designing reliable systems, solving real-world engineering problems, and
 
 # 🛠️ Technical Toolbox
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Databases
@@ -87,146 +94,227 @@ I enjoy designing reliable systems, solving real-world engineering problems, and
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 📱 Mobile & Frontend
+### 🧰 Tools & Development
 
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Engineering Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌾 KrishiMind
-
-> **AI-powered agriculture platform for Bangladesh**
-
-Crop recommendation, disease detection, yield prediction, weather insights, and bilingual support.
-
-**🔧 Stack**
-
-`FastAPI` · `React` · `PostgreSQL` · `PyTorch` · `TensorFlow`
-
-🔗 **Repository:**  
-https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System
+<p align="center">
+  <i>A selection of projects spanning AI, backend systems, mobile development, security, and smart-city simulation.</i>
+</p>
 
 ---
 
-### 📚 CUET CSE Materials
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **Smart learning platform for CUET CSE students**
+## 🌾 KrishiMind
 
-Organized course materials with offline access and structured semester-wise content.
+### 🤖 AI-Powered Agriculture Platform
 
-**🔧 Stack**
+A full-stack platform designed for **smarter agricultural decision-making in Bangladesh**.
 
-`Flutter` · `Firebase` · `Firestore` · `Hive`
+✨ **Highlights**
+- 🌱 Crop recommendation
+- 🦠 Disease detection
+- 📊 Yield prediction
+- 🌦️ Weather insights
+- 🌐 Bilingual support
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/cuet_cse_course_materials_flutter
+**🧰 Tech Stack**
 
----
+`FastAPI` `React` `PostgreSQL`  
+`PyTorch` `TensorFlow`
 
-### 🚌 CUETBus
+🔗 **[View Repository →](https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System)**
 
-> **Campus transportation & booking platform**
+</td>
 
-A mobile platform designed to streamline campus transportation management and booking flows.
+<td width="50%" valign="top">
 
-**🔧 Stack**
+## 🛡️ OmniGuard
 
-`Flutter` · `Node.js` · `SQLite` · `Provider`
+### 🔐 Android Privacy & Security
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/cuetbus_flutter
+A privacy-focused Android dashboard that analyzes application permissions and highlights potential device security risks.
 
----
+✨ **Highlights**
+- 🔍 Permission auditing
+- 🛡️ Privacy risk analysis
+- 📱 Android security monitoring
+- ⚡ Native Android implementation
 
-### 🛡️ OmniGuard
+**🧰 Tech Stack**
 
-> **Privacy-focused Android security dashboard**
+`Kotlin` `Android` `Security APIs`
 
-Audits application permissions and highlights potential device privacy risks.
+🔗 **[View Repository →](https://github.com/TanimStu068/omniguard)**
 
-**🔧 Stack**
+</td>
+</tr>
 
-`Kotlin` · `Android Security APIs`
+<tr>
+<td width="50%" valign="top">
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/omniguard
+## 🏙️ UrbanOS
 
----
+### 🌐 Smart City Digital Twin
 
-### 🏙️ UrbanOS
+A virtual smart-city simulator that models IoT systems, city infrastructure, automation, and real-time interactions.
 
-> **Smart-city digital twin simulator**
+✨ **Highlights**
+- 🌐 Digital twin simulation
+- 📡 IoT sensor simulation
+- ⚙️ Rule-based automation
+- 🔄 Simulation & actuator flow
+- 🧩 Concurrency handling
 
-A virtual smart-city environment featuring simulated IoT systems, rule-based automation, and concurrency handling.
+**🧰 Tech Stack**
 
-**🔧 Stack**
+`Flutter` `Provider` `IoT Architecture`
 
-`Flutter` · `Provider` · `IoT Architecture`
+🔗 **[View Repository →](https://github.com/TanimStu068/urban-os)**
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/urban-os
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🔐 Cyber Sense Plus
+## 🔐 Cyber Sense Plus
 
-> **Secure personal data vault**
+### 🗄️ Secure Personal Data Vault
 
-A security-focused application for storing private information using encrypted local storage.
+A security-focused application for storing sensitive personal information using encrypted local storage.
 
-**🔧 Stack**
+✨ **Highlights**
+- 🔒 AES-256 encryption
+- 💾 Secure local storage
+- 🔐 Private data management
+- 📱 Cross-platform mobile UI
 
-`Flutter` · `Firebase` · `AES-256` · `Hive`
+**🧰 Tech Stack**
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/cyber-sense-plus
+`Flutter` `Firebase` `AES-256` `Hive`
 
----
+🔗 **[View Repository →](https://github.com/TanimStu068/cyber-sense-plus)**
 
-### 💰 Track Spend
+</td>
+</tr>
 
-> **Personal finance & expense management**
+<tr>
+<td width="50%" valign="top">
 
-Track expenses, organize spending categories, and manage personal budgets.
+## 🚌 CUETBus
 
-**🔧 Stack**
+### 🎫 Campus Transportation Platform
 
-`Flutter` · `Firebase` · `Hive` · `FL Chart`
+A mobile platform designed to streamline **campus transportation management and booking**.
 
-🔗 **Repository:**  
-https://github.com/TanimStu068/track_spend_flutter_app
+✨ **Highlights**
+- 🚌 Bus information & management
+- 🎫 Booking workflow
+- 📱 Mobile-first experience
+- 🗃️ Local data management
 
+**🧰 Tech Stack**
+
+`Flutter` `Node.js` `SQLite` `Provider`
+
+🔗 **[View Repository →](https://github.com/TanimStu068/cuetbus_flutter)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📚 CUET CSE Materials
+
+### 🎓 Smart Learning Platform
+
+A structured learning platform for **CUET CSE course materials**, designed for convenient access to academic resources.
+
+✨ **Highlights**
+- 📖 Semester-wise materials
+- 📂 Organized course resources
+- 📱 Mobile learning experience
+- 💾 Offline access
+
+**🧰 Tech Stack**
+
+`Flutter` `Firebase` `Firestore` `Hive`
+
+🔗 **[View Repository →](https://github.com/TanimStu068/cuet_cse_course_materials_flutter)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 💰 Track Spend
+
+### 📊 Personal Finance Manager
+
+A personal finance application for tracking expenses, organizing spending, and managing budgets.
+
+✨ **Highlights**
+- 💵 Expense tracking
+- 📊 Spending visualization
+- 🏷️ Category management
+- 📈 Budget monitoring
+
+**🧰 Tech Stack**
+
+`Flutter` `Firebase` `Hive` `FL Chart`
+
+🔗 **[View Repository →](https://github.com/TanimStu068/track_spend_flutter_app)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 More Projects
+
+I'm continuously building and experimenting with:
+
+**⚙️ Backend Systems**  
+**🤖 AI / LLM Applications**  
+**📱 Flutter Applications**  
+**🧠 Machine Learning**  
+**🏗️ System Design**
+
+<p align="center">
+  <br>
+  <b>More projects coming soon...</b> 🚀
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 # 💼 Experience
