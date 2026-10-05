@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 👨‍💻 Khandaker Tanim Mahmud Hoque
+
+# Khandaker Tanim Mahmud Hoque
 
 ### *Mobile & AI Engineer · Building Privacy-First Experiences*
 
@@ -14,45 +14,75 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **Computer Science & Engineering** student at **CUET** (2023–Present) and a **Mobile & AI Engineer** passionate about building secure, intelligent, and user-centric applications. I specialize in **Android (Kotlin/Jetpack Compose)** and **Cross-Platform (Flutter)** development, with a growing focus on integrating AI into mobile experiences.
+I'm a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)** and a **Mobile & AI Engineer** focused on building secure, intelligent, and user-centric applications. I work across **Android (Kotlin)** and **Cross-Platform (Flutter)** development, with backend experience in **FastAPI** and **PostgreSQL**, and a growing focus on bringing AI into real products.
 
-- 🔭 **Currently working on:** [OmniGuard](https://github.com/TanimStu068/omniguard) – A privacy & system health dashboard for Android.
+- 🔭 **Currently working on:** [OmniGuard](https://github.com/TanimStu068/omniguard), a privacy and system health dashboard for Android.
+- 💼 **Currently:** AI Research & Development Intern at **TechOptions**, working on **BanglaLLM**.
 - 🌱 **Currently learning:** Deep Learning, Computer Vision, and Advanced Android Architecture (Hilt, Coroutines, WorkManager).
 - 👯 **Looking to collaborate on:** Open-source Flutter/Kotlin projects, AI-powered mobile tools, and privacy-focused security apps.
-- 🎯 **My goal:** To build privacy-first Android apps and cross-platform Flutter applications with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
+- 🎯 **Goal:** Build privacy-first Android apps and cross-platform Flutter applications with clean architecture, strong DSA fundamentals, and a focus on real-world deployment.
 - 📫 **Reach me:** [tmahmud547@gmail.com](mailto:tmahmud547@gmail.com)
 
 ---
 
-## 🛠️ Technical Toolbox
+## Experience
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,dart,python,cpp,javascript,sqlite" />
-
-### Android/Native
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle" />
-
-**Frameworks & APIs:** Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager
-
-### Cross-Platform & Backend
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express,postgresql,supabase" />
-
-**Frameworks & Tools:** Provider | FastAPI | Socket.IO
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,figma" />
+| Role | Organization | Duration | Highlights |
+| :--- | :--- | :--- | :--- |
+| **AI Research & Development Intern** | **TechOptions** · Remote, Dhaka, Bangladesh | Jun 2026 – Present | Developing and enhancing **BanglaLLM** and its AI capabilities; researching and evaluating AI/ML models and services. |
+| **Industrial Attachment** | **EchoLogyx Ltd** · Hybrid, Chattogram, Bangladesh | Aug 2026 – Sep 2026 | Worked with software engineering workflows and practices; explored A/B testing, product development, and industry tools. |
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
+## Technical Toolbox
 
-I actively solve problems on various platforms to sharpen my DSA skills and algorithmic thinking.
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,kotlin,java,javascript,sqlite,postgresql" />
+
+### Mobile (Android & Flutter)
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,flutter,firebase" />
+
+**Frameworks & APIs:** Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | Provider | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,supabase,firebase" />
+
+**Frameworks & Tools:** FastAPI | SQLAlchemy | PostgreSQL | Firebase | Supabase | Socket.IO
+
+### AI & Machine Learning
+
+**Areas:** Generative AI | LLMs | Machine Learning | Deep Learning | Gemini API
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,postman,figma" />
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🛡️ OmniGuard** | Privacy-focused Android security dashboard. Audits app permissions, detects shadow apps, and produces a 0–100 security score, alongside storage, RAM, battery, and background process monitoring. | Kotlin, Jetpack Compose, MVVM, Hilt, Room, Coroutines, WorkManager | [GitHub](https://github.com/TanimStu068/omniguard) · [Store](https://m.onestore.net/en-sg/apps/appsDetail?prodId=0001005494&pause=N) |
+| **🌾 KrishiMind** | Team project: full-stack AI-powered agriculture platform for Bangladesh. Crop recommendation, disease detection, yield prediction, plus weather, market, risk, and bilingual farming insights. | FastAPI, PostgreSQL, Gemini API, Docker | [GitHub](https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System) |
+| **🏙️ UrbanOS** | Smart city digital twin simulator with an IoT simulation, a priority-based automation rule engine, and conflict resolution for concurrent rules. | Flutter, Provider, IoT Architecture, Virtual Automation Engine | [GitHub](https://github.com/TanimStu068/urban-os) |
+| **🔐 Cyber Sense Plus** | Security vault with AES-256 encryption. | Flutter, Firebase, AES-256 Encryption, Hive | [GitHub](https://github.com/TanimStu068/cyber-sense-plus) |
+| **📚 CUET CSE Materials** | Smart learning platform for course materials. | Flutter, Firebase, Firestore, Supabase, Hive | [GitHub](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
+| **🚌 CUETBus** | Transit system booking platform. | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
+| **💰 Track Spend** | Personal finance manager with charts and expense tracking. | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
+
+---
+
+## Competitive Programming & Problem Solving
+
+I regularly solve problems to sharpen my data structures, algorithms, and problem-solving skills. Across platforms, I have solved **500+ DSA problems**.
 
 | Platform | Stats |
 | :--- | :--- |
@@ -62,40 +92,41 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 
 ---
 
-## 📁 Featured Projects
+## Hackathons & Achievements
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🛡️ OmniGuard** | Privacy & System Health Dashboard | Kotlin, Jetpack Compose, MVVM, Hilt, Room, Coroutines, WorkManager | [GitHub](https://github.com/TanimStu068/omniguard) · [Store](https://m.onestore.net/en-sg/apps/appsDetail?prodId=0001005494&pause=N) |
-| **🏙️ UrbanOS** | Smart City Digital Twin Simulator | Flutter, Provider, IoT Architecture, Virtual Automation Engine | [GitHub](https://github.com/TanimStu068/urban-os) |
-| **🔐 Cyber Sense Plus** | Security Vault with AES-256 Encryption | Flutter, Firebase, AES-256 Encryption, Hive | [GitHub](https://github.com/TanimStu068/cyber-sense-plus) |
-| **📚 CUET CSE Materials** | Smart Learning Platform | Flutter, Firebase, Firestore, Supabase, Hive | [GitHub](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
-| **🚌 CUETBus** | Transit System Booking Platform | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
-| **💰 Track Spend** | Personal Finance Manager | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
+- 🥈 **2nd Place**, Group Project Competition, **Mysoft Heaven Workshop @ CUET** (Team Carbon Silicon)
+- 🚀 **IEEE CS × Poridhi Hackathon**, a 1-day hackathon where our team built a full-stack solution to a real-world problem and deployed it on the **Poridhi AWS Lab**
+- 🏅 **Board Scholarship (5.00/5.00)**, HSC & SSC
+- 💡 **500+ DSA problems** solved
+- 📱 **10+ apps** built with Flutter and Android
+- 🎨 **40+ screens** designed and built in UrbanOS
 
 ---
 
-## 🎓 Certifications & Achievements
+## Certifications
 
 | Certification | Issuer | Year |
 | :--- | :--- | :--- |
-| **CS101: Introduction to Programming I** | Saylor University | 2026 |
 | **Machine Learning with Python** | IBM | 2026 |
 | **AI for All: From Basics to GenAI Practice** | NVIDIA | 2026 |
-| **Scientific Computing with Python** | freeCodeCamp | 2026 |
-| **Google Play Academy Store Listing** | Google | 2026 |
 | **Introduction to Artificial Intelligence** | Simplilearn | 2026 |
+| **Scientific Computing with Python** | freeCodeCamp | 2026 |
+| **CS101: Introduction to Programming I** | Saylor University | 2026 |
+| **Google Play Academy Store Listing** | Google | 2026 |
 | **Python (Basic)** | HackerRank | 2026 |
-
-**Key Achievements:**
-- 🏅 Board Scholarship (5.00/5.00) – HSC & SSC
-- 💡 500+ DSA Problems Solved
-- 📱 10+ Production Apps Built
-- 🎨 40+ Screens (UrbanOS)
 
 ---
 
-## 📊 GitHub Analytics
+## Education
+
+| Institution | Degree | Duration |
+| :--- | :--- | :--- |
+| **Chittagong University of Engineering and Technology (CUET)** | B.Sc. in Computer Science and Engineering | Jan 2023 – Dec 2026 (Expected) |
+| **Cumilla Victoria Govt. College** | Higher Secondary Certificate (HSC) | 2019 – 2021 |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanimStu068&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" alt="Tanim's GitHub Stats" width="48%" />
@@ -110,9 +141,9 @@ I actively solve problems on various platforms to sharpen my DSA skills and algo
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always open to discussing new projects, collaborations, or opportunities in mobile development and AI.
+I'm open to discussing new projects, collaborations, and opportunities in mobile development and AI.
 
 <div align="center">
   <a href="mailto:tmahmud547@gmail.com"><img src="https://img.shields.io/badge/Email-tmahmud547%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -124,11 +155,11 @@ I'm always open to discussing new projects, collaborations, or opportunities in 
 
 <div align="center">
 
-### 🎯 *"Building privacy-first solutions with clean architecture and real-world impact."*
+### *"Building privacy-first solutions with clean architecture and real-world impact."*
 
 </div>
 
-## 📄 License
+## License
 
 Copyright © 2026 Tanim Mahmud. All rights reserved.
 
