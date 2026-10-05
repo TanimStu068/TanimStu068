@@ -122,6 +122,30 @@ I enjoy designing reliable systems, solving real-world engineering problems, and
 
 ---
 
+---
+
+# 💼 Experience
+
+### 🤖 AI Research & Development Intern
+**TechOptions** · Remote  
+`Jun 2026 – Present`
+
+- 🧠 Developing and improving **BanglaLLM** and related AI capabilities
+- ⚙️ Working on feature development, debugging, and validation
+- 🔬 Researching model performance, optimization, and deployment readiness
+
+---
+
+### 🏢 Industrial Attachment
+**EchoLogyx Ltd.** · Chattogram  
+`Aug 2026 – Sep 2026`
+
+- 🔧 Worked with software engineering and product development workflows
+- 🧪 Gained practical exposure to **A/B testing**
+- 🛠️ Worked with internal tools, planning, documentation, and development practices
+
+---
+
 # 🚀 Featured Projects
 
 <p align="center">
@@ -315,29 +339,7 @@ I'm continuously building and experimenting with:
 </td>
 </tr>
 </table>
----
 
-# 💼 Experience
-
-### 🤖 AI Research & Development Intern
-**TechOptions** · Remote  
-`Jun 2026 – Present`
-
-- 🧠 Developing and improving **BanglaLLM** and related AI capabilities
-- ⚙️ Working on feature development, debugging, and validation
-- 🔬 Researching model performance, optimization, and deployment readiness
-
----
-
-### 🏢 Industrial Attachment
-**EchoLogyx Ltd.** · Chattogram  
-`Aug 2026 – Sep 2026`
-
-- 🔧 Worked with software engineering and product development workflows
-- 🧪 Gained practical exposure to **A/B testing**
-- 🛠️ Worked with internal tools, planning, documentation, and development practices
-
----
 
 # 🧠 Competitive Programming
 
