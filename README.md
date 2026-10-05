@@ -1,373 +1,201 @@
-<div align="center">
+# Khandaker Tanim Mahmud Hoque
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Khandaker%20Tanim%20Mahmud%20Hoque&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%C2%B7%20Building%20Secure%2C%20Scalable%20Systems&descAlignY=60&descSize=17" width="100%" alt="header" />
-
-<a href="https://github.com/TanimStu068">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=760&height=50&lines=Aspiring+Backend+Engineer+%E2%80%A2+AI+Specialization;Distributed+Systems+%26+Scalable+Backends;LLMs+%7C+Deep+Learning+%7C+Computer+Vision;Final-Year+CSE+Student+%40+CUET" alt="Typing SVG" />
-</a>
-
-<br><br>
+**Aspiring Backend Engineer (AI Specialization)**  
+Computer Science & Engineering @ CUET '26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanim-mahmud68)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dark_321)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmahmud547@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portpolio-dqt6.vercel.app/)
-[![GitHub Followers](https://img.shields.io/github/followers/TanimStu068?style=for-the-badge&logo=github&label=Followers&color=0a0a0a)](https://github.com/TanimStu068)
-![Profile Views](https://komarev.com/ghpvc/?username=TanimStu068&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS)
-
-<br>
-
-![DSA](https://img.shields.io/badge/500%2B-DSA%20Problems-06B6D4?style=flat-square&labelColor=0A0A0A)
-![Codeforces](https://img.shields.io/badge/Codeforces-Max%20835-06B6D4?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/10%2B-Apps%20Built-06B6D4?style=flat-square&labelColor=0A0A0A)
-![Intern](https://img.shields.io/badge/AI%20R%26D%20Intern-TechOptions-06B6D4?style=flat-square&labelColor=0A0A0A)
-![CUET](https://img.shields.io/badge/CSE-CUET%20'26-06B6D4?style=flat-square&labelColor=0A0A0A)
-
-</div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<table>
-<tr>
-<td width="62%" valign="top">
+I am a final-year Computer Science & Engineering student at **Chittagong University of Engineering and Technology (CUET)**, with a strong interest in **backend engineering**, **distributed systems**, and **AI-powered product development**.
 
-I'm a final-year **Computer Science & Engineering** student at **Chittagong University of Engineering and Technology (CUET)**, aspiring to become a **Backend Engineer specializing in AI**.
+I enjoy building reliable, scalable systems and solving real-world engineering problems through thoughtful design, clean architecture, and strong problem-solving fundamentals.
 
-I enjoy building **scalable, secure, and reliable systems**, and I'm focused on **backend engineering, distributed systems, and large-scale AI**. I build backends with **FastAPI** and **PostgreSQL**, work with **LLMs and machine learning**, and have also built **cross-platform apps with Flutter** along with an Android app.
-
-</td>
-<td width="38%" valign="middle" align="center">
-
-```text
-$ whoami
-> tanim_mahmud
-
-$ focus --now
-> backend_engineering
-> distributed_systems
-> ai / llms
-
-$ status
-> building. learning. shipping.
-```
-
-</td>
-</tr>
-</table>
+My current focus is on **backend engineering, system design, AI integration, and production-ready software development**.
 
 ---
 
-## 🔭 What I'm Up To
+## Current Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Undergraduate Thesis
+### Undergraduate Thesis
 **Deepfake Detection & C2PA Cross-Verification for Bangla Visual Media**
+- Building a Bangla media dataset
+- Fine-tuning deep learning models for detection
+- Evaluating model accuracy, robustness, and deployment feasibility
 
-- 🗂️ Building a Bangla dataset
-- 🧬 Fine-tuning a base model
-- 📈 Evaluating accuracy and performance
-
-![Research](https://img.shields.io/badge/Status-In%20Progress-06B6D4?style=flat-square&labelColor=0A0A0A)
-![Domain](https://img.shields.io/badge/Domain-Computer%20Vision%20%C2%B7%20Trust%20%26%20Media-0A0A0A?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 BanglaLLM @ TechOptions
-**A full-stack, full-featured Bangla LLM platform for the Government of Bangladesh**
-
-- ✨ Building new features and updating code
-- 🌿 Feature branches → merge to `main`
-- 🧪 Testing, debugging, and fixing issues
-- 📣 Daily progress updates to the team
-
-![Role](https://img.shields.io/badge/Role-AI%20R%26D%20Intern-06B6D4?style=flat-square&labelColor=0A0A0A)
-![Since](https://img.shields.io/badge/Since-Jun%202026-0A0A0A?style=flat-square)
-
-</td>
-</tr>
-</table>
+### BanglaLLM @ TechOptions
+**AI R&D Intern** | Jun 2026 – Present
+- Developing and enhancing a Bangla LLM platform
+- Working on feature development, debugging, and validation
+- Collaborating with the team on model-focused product improvements
 
 ---
 
-## 🌱 Learning · 🤝 Collaborating · 🎯 Goal
+## Technical Toolbox
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+### Languages
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🌱 Currently Learning
+### Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-![Backend](https://img.shields.io/badge/Backend%20Engineering-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![System Design](https://img.shields.io/badge/System%20Design-0A0A0A?style=for-the-badge&logo=diagrams.net&logoColor=F08705)
-![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![ML](https://img.shields.io/badge/Machine%20Learning-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![DL](https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![CV](https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
-</td>
-<td width="33%" valign="top" align="center">
+### Mobile & Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### 🤝 Open to Collaborate On
-
-- Open-source **backend & AI** projects
-- **AI-powered** applications
-- **Flutter / Kotlin** mobile apps
-- **Privacy-focused** security tools
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🎯 Goal
-
-To become a **Backend Engineer specializing in AI**, building **scalable, secure, production-ready systems** with clean architecture, strong DSA fundamentals, and a focus on **real-world deployment**.
-
-</td>
-</tr>
-</table>
-
-```mermaid
-flowchart LR
-    A([Strong DSA]) --> B([Backend Engineering])
-    B --> C([System Design])
-    C --> D([Distributed Systems])
-    B --> E([DevOps])
-    A --> F([ML & Deep Learning])
-    F --> G([LLMs])
-    D --> H{{Backend Engineer<br/>AI Specialization}}
-    E --> H
-    G --> H
-    style H fill:#06B6D4,stroke:#0A0A0A,color:#0A0A0A
-```
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### KrishiMind
+AI-powered agriculture platform for Bangladesh with crop recommendation, disease detection, yield prediction, weather insights, and bilingual support.
 
-### 🧠 AI Research & Development Intern
-**TechOptions** · Remote, Dhaka, Bangladesh
-🗓️ *Jun 2026 – Present*
+- Tech: FastAPI, React, PostgreSQL, PyTorch, TensorFlow
+- GitHub: https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System
 
-- Developing and enhancing **BanglaLLM** and its AI capabilities
-- Researching and evaluating **AI/ML models and services**
+### CUET CSE Materials
+A smart learning platform for CUET CSE course materials with organized access and offline support.
 
-</td>
-<td width="50%" valign="top">
+- Tech: Flutter, Firebase, Firestore, Hive
+- GitHub: https://github.com/TanimStu068/cuet_cse_course_materials_flutter
 
-### 🏢 Industrial Attachment
-**EchoLogyx Ltd** · Hybrid, Chattogram, Bangladesh
-🗓️ *Aug 2026 – Sep 2026*
+### CUETBus
+Campus transportation booking platform built for streamlined transit management and booking flows.
 
-- Worked with **software engineering workflows and practices**
-- Explored **A/B testing, product development, and industry tools**
+- Tech: Flutter, Node.js, SQLite, Provider
+- GitHub: https://github.com/TanimStu068/cuetbus_flutter
 
-</td>
-</tr>
-</table>
+### OmniGuard
+Privacy-focused Android security dashboard that audits app permissions and highlights device privacy risks.
 
----
+- Tech: Kotlin, Android, Security APIs
+- GitHub: https://github.com/TanimStu068/omniguard
 
-## 🛠️ Technical Toolbox
+### UrbanOS
+Smart city digital twin simulator with rule-based automation and concurrency handling.
 
-| | |
-| :--- | :--- |
-| **💻 Languages** | ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB) ![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=0175C2) ![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=for-the-badge&logo=kotlin&logoColor=7F52FF) ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=0F80CC) |
-| **⚙️ Backend & Databases** | ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0A0A0A?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00) ![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=FF4438) ![Firebase](https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28) |
-| **🧠 AI** | **Generative AI · LLMs · Machine Learning · Deep Learning**<br>![Gemini API](https://img.shields.io/badge/Gemini%20API-0A0A0A?style=for-the-badge&logo=googlegemini&logoColor=8E75B2) |
-| **🛠️ Tools** | ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Postman](https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Android Studio](https://img.shields.io/badge/Android%20Studio-0A0A0A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84) ![VS Code](https://img.shields.io/badge/VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
-| **📱 Mobile** | ![Flutter](https://img.shields.io/badge/Flutter%20(Provider)-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B) ![Android](https://img.shields.io/badge/Android-0A0A0A?style=for-the-badge&logo=android&logoColor=3DDC84) |
+- Tech: Flutter, Provider, IoT Architecture
+- GitHub: https://github.com/TanimStu068/urban-os
 
----
+### Cyber Sense Plus
+Security vault with AES-256 encryption for private data storage.
 
-## 📁 Featured Projects
+- Tech: Flutter, Firebase, AES-256, Hive
+- GitHub: https://github.com/TanimStu068/cyber-sense-plus
 
-<div align="center">
+### Track Spend
+A personal finance application for expense tracking and budget management.
 
-<a href="https://github.com/TanimStu068/CinemaSeat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TanimStu068&repo=CinemaSeat&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" width="48%" alt="CinemaSeat" /></a>
-<a href="https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TanimStu068&repo=KrishiMind-Agro-Intelligent-System&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" width="48%" alt="KrishiMind" /></a>
-<a href="https://github.com/TanimStu068/omniguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TanimStu068&repo=omniguard&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" width="48%" alt="OmniGuard" /></a>
-<a href="https://github.com/TanimStu068/urban-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TanimStu068&repo=urban-os&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" width="48%" alt="UrbanOS" /></a>
-
-</div>
-
-<br>
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🎟️ CinemaSeat** | Real-time cinema ticketing system built at the IEEE CS × Poridhi Hackathon. Handles 100+ concurrent requests for the same seat with zero double-booking using PostgreSQL row locks (`SELECT ... FOR UPDATE NOWAIT`). Includes automatic 60-second hold expiry, multi-seat booking (up to 3), and idempotent payment/OTP webhooks via Redis `SETNX`. | FastAPI, PostgreSQL, Redis, React (Vite), Docker Compose, GitHub Actions, AWS | [GitHub](https://github.com/TanimStu068/CinemaSeat) |
-| **🌾 KrishiMind** | Team project: full-stack AI-powered agriculture platform for Bangladesh. Crop recommendation, disease detection, yield prediction, plus weather, market, risk, and bilingual farming insights. | FastAPI, PostgreSQL, Gemini API, Docker | [GitHub](https://github.com/TanimStu068/KrishiMind-Agro-Intelligent-System) |
-| **🛡️ OmniGuard** | Privacy-focused Android security dashboard. Audits app permissions, detects shadow apps, and produces a 0–100 security score, alongside storage, RAM, battery, and background process monitoring. | Kotlin, Jetpack Compose, MVVM, Hilt, Room, Coroutines, WorkManager | [GitHub](https://github.com/TanimStu068/omniguard) · [Store](https://m.onestore.net/en-sg/apps/appsDetail?prodId=0001005494&pause=N) |
-| **🏙️ UrbanOS** | Smart city digital twin simulator with an IoT simulation, a priority-based automation rule engine, and conflict resolution for concurrent rules. | Flutter, Provider, IoT Architecture, Virtual Automation Engine | [GitHub](https://github.com/TanimStu068/urban-os) |
-| **🔐 Cyber Sense Plus** | Security vault with AES-256 encryption. | Flutter, Firebase, AES-256 Encryption, Hive | [GitHub](https://github.com/TanimStu068/cyber-sense-plus) |
-| **📚 CUET CSE Materials** | Smart learning platform for course materials. | Flutter, Firebase, Firestore, Supabase, Hive | [GitHub](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
-| **🚌 CUETBus** | Transit system booking platform. | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
-| **💰 Track Spend** | Personal finance manager with charts and expense tracking. | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
-
-<details>
-<summary><b>🏗️ CinemaSeat: how it prevents double-booking (click to expand)</b></summary>
-
-<br>
-
-```mermaid
-flowchart LR
-    U([User Browser]) --> R[React + Vite]
-    R -->|REST| F[FastAPI]
-    F --> L[Row Lock<br/>FOR UPDATE NOWAIT]
-    F --> X[Hold Expiry Task<br/>60s TTL]
-    F --> W[Idempotent Webhooks]
-    L --> P[(PostgreSQL)]
-    X --> P
-    W -->|SETNX| D[(Redis)]
-    W --> P
-    F --> G[Mock Gateway<br/>OTP & Payment]
-    G -->|Webhook| W
-```
-
-**Result of the 100-request concurrency test:** exactly 1 successful hold, 99 rejections (409), 0 oversells.
-
-</details>
+- Tech: Flutter, Firebase, Hive, FL Chart
+- GitHub: https://github.com/TanimStu068/track_spend_flutter_app
 
 ---
 
-## 🏆 Hackathons & Achievements
+## Experience
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+### AI Research & Development Intern
+**TechOptions** · Remote  
+*Jun 2026 – Present*
 
-### 🥈 2nd Place
-**Group Project Competition**
-Mysoft Heaven Workshop @ CUET
-*Team Carbon Silicon*
+- Developing and improving BanglaLLM and related AI capabilities
+- Researching model performance, optimization, and deployment readiness
 
-</td>
-<td width="33%" valign="top" align="center">
+### Industrial Attachment
+**EchoLogyx Ltd** · Chattogram  
+*Aug 2026 – Sep 2026*
 
-### 🚀 IEEE CS × Poridhi
-**1-Day Hackathon**
-Built [CinemaSeat](https://github.com/TanimStu068/CinemaSeat), a full-stack solution to a real-world problem, deployed on the **Poridhi AWS Lab** with CI/CD via GitHub Actions.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🏅 Board Scholarship
-**5.00 / 5.00 GPA**
-SSC & HSC
-
-</td>
-</tr>
-</table>
+- Worked with software engineering workflows and internal product-oriented practices
+- Gained exposure to A/B testing, product development, and industry tooling
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
+## Competitive Programming
 
-I regularly solve problems to sharpen my data structures, algorithms, and problem-solving skills. Across platforms, I have solved **500+ DSA problems**.
+I regularly solve algorithmic and data-structure problems to strengthen core problem-solving skills.
 
-<div align="center">
-
-| Platform | Stats |
-| :---: | :---: |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A0A0A) | ![GFG](https://img.shields.io/badge/GeeksforGeeks-170%2B%20Score-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0A0A0A) |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-400%2B%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=0A0A0A) | ![Rating](https://img.shields.io/badge/Codeforces%20Max%20Rating-835-06B6D4?style=for-the-badge&labelColor=0A0A0A) |
-
-</div>
+- LeetCode: 100+ solved
+- Codeforces: 400+ solved
+- GeeksforGeeks: 170+ solved
+- Total DSA problems: 500+
 
 ---
 
-## 📜 Certifications
+## Achievements
 
-<div align="center">
-
-![IBM](https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-0A0A0A?style=for-the-badge&logo=ibm&logoColor=1261FE)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20for%20All%3A%20Basics%20to%20GenAI-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![Simplilearn](https://img.shields.io/badge/Simplilearn-Introduction%20to%20AI-0A0A0A?style=for-the-badge&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=0A0A23)
-![Saylor](https://img.shields.io/badge/Saylor%20University-CS101%3A%20Intro%20to%20Programming-0A0A0A?style=for-the-badge&logoColor=white)
-![Google](https://img.shields.io/badge/Google-Play%20Academy%20Store%20Listing-0A0A0A?style=for-the-badge&logo=googleplay&logoColor=34A853)
-![HackerRank](https://img.shields.io/badge/HackerRank-Python%20(Basic)-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=2EC866)
-
-</div>
+- 🥈 2nd Place – Group Project Competition, Mysoft Heaven Workshop @ CUET
+- 🚀 IEEE CS × Poridhi Hackathon – Built a full-stack solution deployed on AWS Lab
+- 🏅 Board Scholarship – 5.00 / 5.00 GPA in SSC and HSC
 
 ---
 
-## 🎓 Education
+## Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ Chittagong University of Engineering and Technology (CUET)
-**B.Sc. in Computer Science and Engineering**
-🗓️ *Jan 2023 – Dec 2026 (Expected)*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 Cumilla Victoria Govt. College
-**Higher Secondary Certificate (HSC)**
-🗓️ *2019 – 2021*
-
-</td>
-</tr>
-</table>
+- IBM – Machine Learning with Python
+- NVIDIA – AI for All: Basics to GenAI
+- freeCodeCamp – Scientific Computing with Python
+- Google – Play Academy Store Listing
+- HackerRank – Python (Basic)
 
 ---
 
-## 📊 GitHub Analytics
+## Education
 
-<div align="center">
+**B.Sc. in Computer Science and Engineering**  
+Chittagong University of Engineering and Technology (CUET)  
+*Jan 2023 – Dec 2026 (Expected)*
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanimStu068&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanimStu068&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF" alt="Top Languages" width="48%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanimStu068&theme=radical&hide_border=true&background=0A0A0A&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" width="60%" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TanimStu068&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="95%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanimStu068&bg_color=0A0A0A&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-
-</div>
+**HSC**  
+Cumilla Victoria Govt. College  
+*2019 – 2021*
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
-<div align="center">
+I'm open to discussing **backend engineering**, **AI product work**, and meaningful collaborations.
 
-I'm open to discussing new projects, collaborations, and opportunities in **backend engineering and AI**.
+[Email](mailto:tmahmud547@gmail.com)  
+[LinkedIn](https://linkedin.com/in/tanim-mahmud68)  
+[GitHub](https://github.com/TanimStu068)  
+[Portfolio](https://v0-portpolio-dqt6.vercel.app/)
 
-<a href="mailto:tmahmud547@gmail.com"><img src="https://img.shields.io/badge/Email-tmahmud547%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tanim-mahmud68"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/TanimStu068"><img src="https://img.shields.io/badge/GitHub-Follow-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
 
-<br><br>
+Building secure, scalable systems with clean architecture and strong fundamentals.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+secure%2C+scalable+systems+with+clean+architecture.;Focused+on+real-world+impact+and+production+deployment." alt="Quote" />
+---
 
-</div>
+## License
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+Copyright © 2026 Khandaker Tanim Mahmud Hoque. All rights reserved.
 
-## 📄 License
-
-Copyright © 2026 Tanim Mahmud. All rights reserved.
-
-This repository is publicly available for viewing and portfolio purposes.
-The source code may not be copied, modified, distributed, or reused
-without prior written permission.
+This repository is publicly available for viewing and portfolio purposes. The source code may not be copied, modified, distributed, or reused without prior written permission.
