@@ -127,3 +127,11 @@ I'm always open to discussing new projects, collaborations, or opportunities in 
 ### 🎯 *"Building privacy-first solutions with clean architecture and real-world impact."*
 
 </div>
+
+## License
+
+This repository is currently not licensed for reuse, modification,
+or redistribution. All rights reserved by the project author.
+
+Please do not copy, modify, distribute, or use this project
+without permission.
