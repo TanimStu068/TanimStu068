@@ -38,32 +38,38 @@ I'm a final-year **Computer Science & Engineering** student at **Chittagong Univ
 
 ## Technical Toolbox
 
-### Languages
+**Languages**<br>
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-06B6D4?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-06B6D4?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-06B6D4?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-06B6D4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,dart,kotlin,java,javascript,sqlite,postgresql" />
+**Mobile**<br>
+![Flutter](https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-06B6D4?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-06B6D4?style=for-the-badge)
 
-### Mobile (Android & Flutter)
+**Backend & Databases**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06B6D4?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-06B6D4?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-06B6D4?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,flutter,firebase" />
+**AI**<br>
+![Generative AI](https://img.shields.io/badge/Generative%20AI-06B6D4?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-06B6D4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-06B6D4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-06B6D4?style=for-the-badge)
 
-**Frameworks & APIs:** Jetpack Compose | MVVM | Hilt | Coroutines | Flow | Room | WorkManager | Provider | PackageManager | StorageStatsManager | ActivityManager | BatteryManager | UsageStatsManager
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,supabase,firebase" />
-
-**Frameworks & Tools:** FastAPI | SQLAlchemy | PostgreSQL | Firebase | Supabase | Socket.IO
-
-### AI & Machine Learning
-
-**Areas:** Generative AI | LLMs | Machine Learning | Deep Learning | Gemini API
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,postman,figma" />
-
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-06B6D4?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-06B6D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-06B6D4?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-06B6D4?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-06B6D4?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-06B6D4?style=for-the-badge)
 ---
 
 ## Featured Projects
@@ -76,6 +82,7 @@ I'm a final-year **Computer Science & Engineering** student at **Chittagong Univ
 | **🔐 Cyber Sense Plus** | Security vault with AES-256 encryption. | Flutter, Firebase, AES-256 Encryption, Hive | [GitHub](https://github.com/TanimStu068/cyber-sense-plus) |
 | **📚 CUET CSE Materials** | Smart learning platform for course materials. | Flutter, Firebase, Firestore, Supabase, Hive | [GitHub](https://github.com/TanimStu068/cuet_cse_course_materials_flutter_app) |
 | **🚌 CUETBus** | Transit system booking platform. | Flutter, Node.js, SQLite, Provider | [GitHub](https://github.com/TanimStu068/cuetbus_flutter) |
+| **🎟️ CinemaSeat** | Real-time cinema ticketing system built at the IEEE CS × Poridhi Hackathon. Handles 100+ concurrent requests for the same seat with zero double-booking using PostgreSQL row locks (`SELECT ... FOR UPDATE NOWAIT`). Includes automatic 60-second hold expiry, multi-seat booking (up to 3), and idempotent payment/OTP webhooks via Redis `SETNX`. | FastAPI, PostgreSQL, Redis, React (Vite), Docker Compose, GitHub Actions, AWS | [GitHub](https://github.com/TanimStu068/CinemaSeat) |
 | **💰 Track Spend** | Personal finance manager with charts and expense tracking. | Flutter, Firebase, Hive, FL Chart | [GitHub](https://github.com/TanimStu068/track_spend_flutter_app) |
 
 ---
@@ -95,7 +102,7 @@ I regularly solve problems to sharpen my data structures, algorithms, and proble
 ## Hackathons & Achievements
 
 - 🥈 **2nd Place**, Group Project Competition, **Mysoft Heaven Workshop @ CUET** (Team Carbon Silicon)
-- 🚀 **IEEE CS × Poridhi Hackathon**, a 1-day hackathon where our team built a full-stack solution to a real-world problem and deployed it on the **Poridhi AWS Lab**
+- 🚀 **IEEE CS × Poridhi Hackathon (1-day)**: Built [CinemaSeat](https://github.com/TanimStu068/CinemaSeat), a real-time, high-concurrency cinema ticketing system, as a team to solve a real-world problem. Deployed on the **Poridhi AWS Lab** with automated CI/CD via GitHub Actions.
 - 🏅 **Board Scholarship (5.00/5.00)**, HSC & SSC
 - 💡 **500+ DSA problems** solved
 - 📱 **10+ apps** built with Flutter and Android
